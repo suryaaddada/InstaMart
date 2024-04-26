@@ -1,0 +1,20 @@
+2024-04-22 10:56:28 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 10:56:28 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 10:56:28 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 10:56:28 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 11:25:00 Source=Backend.V1.Controllers.LoginController Message=User Email exists checking for email syedshahinsulthana@gmail.com returns true
+2024-04-22 11:25:00 Source=Backend.V1.Controllers.LoginController Message=Vendor Email exists checking for email syedshahinsulthana@gmail.com returns false
+2024-04-22 11:25:04 Source=Backend.V1.Controllers.LoginController Message=An Email sent successfully to the syedshahinsulthana@gmail.com 
+2024-04-22 11:29:18 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 11:29:18 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 11:29:18 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 11:29:18 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 12:23:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 12:23:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 12:23:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 12:23:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 15:20:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 15:20:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 15:20:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 15:20:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-22 16:19:44 Source=Backend.V1.Controllers.LoginController Message=User Email exists checking for email asv returns false

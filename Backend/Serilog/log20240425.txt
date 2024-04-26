@@ -1,0 +1,976 @@
+2024-04-25 14:10:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:10:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:10:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:10:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:10:34 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:10:34 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:10:52 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 14:10:52 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:10:52 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:10:52 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:10:52 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:16:21 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:16:21 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:16:27 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:16:27 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:16:36 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:16:36 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:16:36 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:16:36 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:19:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:19:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:19:37 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:19:37 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:19:43 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:19:43 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:19:43 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:19:43 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 14:25:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:25:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:25:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:25:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:25:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:25:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:25:29 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:24
+2024-04-25 14:25:29 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:24
+2024-04-25 14:40:24 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:40:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 14:41:58 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address sowmya200118@gmail.com
+2024-04-25 14:43:10 Source=Backend.V1.Controllers.ProductController Message=Product with id 4031 already added into the cart by the user whose id is 2002.
+2024-04-25 14:44:05 Source=Backend.V1.Controllers.ProductController Message=Product with id 4031 already added into the cart by the user whose id is 4002.
+2024-04-25 14:46:41 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 14:47:23 Source=Backend.V1.Controllers.ProductController Message=A new product whose id is 2031 is added into wishlist by the user whose id is 2002.
+2024-04-25 14:48:51 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 2002.
+2024-04-25 14:53:20 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 14:54:16 Source=Backend.V1.Controllers.ProductController Message=A new product with id 2 is added into the cart by the user whose id is 2002.
+2024-04-25 14:57:08 Source=Backend.V1.Controllers.ProductController Message=User with id 2002 failed to fetch active wishlist items as it is not found.
+2024-04-25 14:57:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving cart items for the user whose id is 2002.
+2024-04-25 14:57:40 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:18:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:15 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:18:25 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:18:56 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:18:56 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:19:49 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:49 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:49 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:49 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:49 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:49 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:19:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:20:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:20:44 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:20:44 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:20:55 Source=Backend.V1.Controllers.ProductController Message=Product with id 30 is deleted from wishlist by the user with id 1002.
+2024-04-25 15:20:55 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:20:59 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:20:59 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:20:59 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 15:20:59 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 15:21:01 Source=Backend.V1.Controllers.ProductController Message=Product with id 32 already added into the cart by the user whose id is 1002.
+2024-04-25 15:21:01 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6013 is updated successfully
+2024-04-25 15:21:10 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 15:21:29 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:21:29 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:21:30 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:21:30 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:21:39 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1028
+2024-04-25 15:21:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:21:39 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1028
+2024-04-25 15:21:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:21:49 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:21:49 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:21:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:21:57 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:21:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:21:57 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:22:02 Source=Backend.V1.Controllers.ProductController Message=A new product whose id is 2 is added into wishlist by the user whose id is 1002.
+2024-04-25 15:22:04 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:22:04 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:22:06 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:22:06 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:22:09 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:22:09 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:22:13 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:22:13 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:22:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving cart items for the user whose id is 1002.
+2024-04-25 15:22:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving cart items for the user whose id is 1002.
+2024-04-25 15:22:19 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 15:22:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:22:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:22:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:22:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:22:39 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:22:39 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:22:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:52 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:52 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:52 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:22:56 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:22:56 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:22:56 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:22:56 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:22:58 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:22:59 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:23:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:05 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:23:05 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 15:23:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:39 Source=Backend.V1.Controllers.ProductController Message=Inventory details not found to fetch product details  for the product whose id is:2028
+2024-04-25 15:23:39 Source=Backend.V1.Controllers.ProductController Message=Inventory details not found to fetch product details  for the product whose id is:2028
+2024-04-25 15:23:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:47 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:23:47 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:23:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:23:56 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:23:56 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:23:58 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:23:58 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:23:58 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:23:58 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:23:59 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:23:59 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:24:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:24:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:24:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:24:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:24:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:24:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:24:04 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:24:04 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:27:51 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:27:51 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:27:51 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:27:51 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:29:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:29:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:30:16 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:31
+2024-04-25 15:30:16 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:31
+2024-04-25 15:32:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:36:05 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:31
+2024-04-25 15:36:38 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:31
+2024-04-25 15:36:38 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:31
+2024-04-25 15:36:39 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:36:39 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:37:20 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:31
+2024-04-25 15:37:20 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:37:20 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:31
+2024-04-25 15:37:20 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:37:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:37:55 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2030
+2024-04-25 15:37:55 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2030
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:38:54 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:38:58 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:38:58 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:39:32 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:39:32 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:39:32 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:39:32 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:40:14 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:40:14 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:40:14 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:40:14 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:41:04 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:41:04 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:41:04 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:41:04 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:41:48 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:41:48 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:41:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:41:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:42:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:42:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:42:24 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:42:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:42:24 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:42:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:42:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:42:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:42:45 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:42:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:42:45 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:42:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:44:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:44:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:44:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:44:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:44:48 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:44:48 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:44:48 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:44:48 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:44:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:44:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:45:07 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 15:45:07 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 15:45:10 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 is deleted from wishlist by the user with id 1002.
+2024-04-25 15:45:12 Source=Backend.V1.Controllers.ProductController Message=A new product whose id is 2 is added into wishlist by the user whose id is 1002.
+2024-04-25 15:45:22 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:45:22 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:45:22 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:45:22 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:45:22 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:45:22 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:45:26 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1030
+2024-04-25 15:45:26 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1030
+2024-04-25 15:46:14 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1030
+2024-04-25 15:46:20 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1030
+2024-04-25 15:47:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:47:09 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:47:12 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:47:12 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:47:12 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1027
+2024-04-25 15:47:12 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1027
+2024-04-25 15:47:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:47:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:47:38 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 15:47:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 15:47:38 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 15:50:15 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 15:52:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:52:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:52:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:52:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:52:20 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address addadasurya@gmail.com
+2024-04-25 15:52:20 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1
+2024-04-25 15:52:20 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1
+2024-04-25 15:52:36 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:36 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:38 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :1
+2024-04-25 15:52:38 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :1
+2024-04-25 15:52:52 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:52 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:53 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :2
+2024-04-25 15:52:53 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :2
+2024-04-25 15:52:55 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:55 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:56 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :5
+2024-04-25 15:52:56 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :5
+2024-04-25 15:52:58 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:58 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:52:59 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :1002
+2024-04-25 15:52:59 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :1002
+2024-04-25 15:53:03 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:53:03 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:53:06 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:06 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:06 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:06 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:10 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :4028
+2024-04-25 15:53:10 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:14 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :3035
+2024-04-25 15:53:14 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:15 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:19 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:22 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :4029
+2024-04-25 15:53:22 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:23 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:30 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :4029
+2024-04-25 15:53:30 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:33 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :31
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :24
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :30
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :32
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1034
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1026
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :2028
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1027
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1030
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2029
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4031
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2030
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4029
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :24
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :30
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :31
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2029
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4031
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4029
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :32
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2030
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1027
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1030
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1034
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1026
+2024-04-25 15:53:47 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :2028
+2024-04-25 15:53:48 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :23
+2024-04-25 15:53:48 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :23
+2024-04-25 15:54:26 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:54:26 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:54:26 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:54:26 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :23
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :24
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1026
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :30
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :32
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1034
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1027
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :2028
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1030
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2029
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4031
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4029
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2030
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :24
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :32
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :23
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :30
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1026
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1034
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1027
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1030
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :2028
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2030
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4031
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2029
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4029
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :31
+2024-04-25 15:54:27 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :31
+2024-04-25 15:55:00 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:55:00 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 15:55:00 Source=Backend.V1.Controllers.UserController Message=Successfully retrieved all Users
+2024-04-25 15:55:00 Source=Backend.V1.Controllers.UserController Message=Successfully retrieved all Users
+2024-04-25 15:55:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:05 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:05 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:05 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:05 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:07 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:07 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:07 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:07 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:55:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:57:40 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:23 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:58:23 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:58:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:58:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:04 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 15:59:55 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 15:59:55 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:00:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:14 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:00:14 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:00:16 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:00:16 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:00:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:00:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:00:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:00:22 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:00:22 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:02:57 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:03:18 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:04:39 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:04:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:39 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:04:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:39 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 16:04:39 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 16:04:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:04:48 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 16:04:48 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:51 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:51 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:51 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:51 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:51 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:51 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:53 Source=Backend.V1.Controllers.ProductController Message=Inventory details not found to fetch product details  for the product whose id is:2028
+2024-04-25 16:04:53 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:53 Source=Backend.V1.Controllers.ProductController Message=Inventory details not found to fetch product details  for the product whose id is:2028
+2024-04-25 16:04:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:57 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:04:59 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:24
+2024-04-25 16:04:59 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:59 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:04:59 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:24
+2024-04-25 16:05:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:00 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:05:02 Source=Backend.V1.Controllers.ProductController Message=Inventory details not found to fetch product details  for the product whose id is:2028
+2024-04-25 16:05:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:05:02 Source=Backend.V1.Controllers.ProductController Message=Inventory details not found to fetch product details  for the product whose id is:2028
+2024-04-25 16:05:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:05:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:05:13 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 16:05:13 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:05:13 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 16:05:15 Source=Backend.V1.Controllers.ProductController Message=A new product whose id is 30 is added into wishlist by the user whose id is 1002.
+2024-04-25 16:05:17 Source=Backend.V1.Controllers.ProductController Message=Product with id 30 is deleted from wishlist by the user with id 1002.
+2024-04-25 16:05:41 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 16:05:41 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 16:05:42 Source=Backend.V1.Controllers.ProductController Message=Product with id 30 already added into the cart by the user whose id is 1002.
+2024-04-25 16:05:42 Source=Backend.V1.Controllers.ProductController Message=Cart with id 5014 is updated successfully
+2024-04-25 16:05:47 Source=Backend.V1.Controllers.ProductController Message=Product with id 30 already added into the cart by the user whose id is 1002.
+2024-04-25 16:05:47 Source=Backend.V1.Controllers.ProductController Message=Cart with id 5014 is updated successfully
+2024-04-25 16:06:09 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 16:06:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:06:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:06:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:06:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:06:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:06:24 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 16:28:37 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 17:26:21 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:21 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:21 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:21 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:23 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 17:26:23 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 17:26:33 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 17:26:33 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 17:26:33 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 17:26:33 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:26:33 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:26:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:26:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:26:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:26:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 17:26:37 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:26:37 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 17:26:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:43 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 17:26:43 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 17:26:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:26:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:26:48 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:27:46 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:30:15 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:30:15 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:31:20 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:32:11 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:32:11 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1026
+2024-04-25 17:32:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:32:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:32:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:32:11 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:32:15 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 17:32:15 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 17:33:32 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 17:33:44 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 17:33:44 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 17:34:25 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 17:34:28 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2029
+2024-04-25 17:35:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:35:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:35:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:35:30 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:35:31 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:36:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:33 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:36 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:36:46 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1030
+2024-04-25 17:36:52 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1030
+2024-04-25 17:36:52 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:36:56 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:39:26 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1030
+2024-04-25 17:39:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:40:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:34 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:32
+2024-04-25 17:40:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:47 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 17:40:47 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 17:40:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:50 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:52 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:23
+2024-04-25 17:40:52 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:23
+2024-04-25 17:40:55 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:55 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:55 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:40:55 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:02 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:45 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:41:47 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1027
+2024-04-25 17:41:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:41:47 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:41:47 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:1027
+2024-04-25 17:45:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:45:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:45:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:45:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:45:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:45:39 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:45:44 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:45:44 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:45:44 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:45:44 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:45:54 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:45:54 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:49:42 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:49:42 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:50:10 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:50:10 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:50:23 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 17:50:23 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:50:23 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:50:23 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1002
+2024-04-25 17:50:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:50:23 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:50:23 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:2
+2024-04-25 17:50:26 Source=Backend.V1.Controllers.ProductController Message=Product with id 2 already added into the cart by the user whose id is 1002.
+2024-04-25 17:50:26 Source=Backend.V1.Controllers.ProductController Message=Cart with id 6014 is updated successfully
+2024-04-25 17:50:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:50:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:50:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:50:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:50:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:50:29 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 17:50:34 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:24
+2024-04-25 17:50:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:50:34 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:24
+2024-04-25 17:50:34 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :1002
+2024-04-25 17:50:36 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 17:50:43 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 17:50:43 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 17:50:45 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 17:50:45 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 17:50:46 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 17:50:49 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:1002 
+2024-04-25 17:54:17 Source=Backend.V1.Controllers.OrderController Message=A new order is placed
+2024-04-25 17:54:17 Source=Backend.V1.Controllers.OrderController Message=A new ordered items are added
+2024-04-25 17:54:17 Source=Backend.V1.Controllers.ProductController Message=Product with id 24 is deleted from cart by the user whose id is 1002.
+2024-04-25 17:54:26 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 17:54:26 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 18:25:59 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address satya@gmail.com
+2024-04-25 18:26:23 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:1002
+2024-04-25 18:26:33 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:2002
+2024-04-25 18:26:47 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:4002
+2024-04-25 18:27:05 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:4003
+2024-04-25 20:30:43 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:30:43 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:30:43 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:30:43 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:31:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:31:20 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:31:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:31:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:31:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:31:35 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:39 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:4029
+2024-04-25 20:32:39 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:4029
+2024-04-25 20:32:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:46 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:58 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:58 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:58 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:32:58 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:10 Source=Backend.V1.Controllers.LoginController Message=User Email exists checking for email deepakmadana@gmail.com returns false
+2024-04-25 20:34:10 Source=Backend.V1.Controllers.UserController Message=A new user Registered.
+2024-04-25 20:34:10 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:10 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:10 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:10 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address deepakmadana@gmail.com
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :6002
+2024-04-25 20:34:38 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :6002
+2024-04-25 20:37:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:37:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:37:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:37:03 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:37:12 Source=Backend.V1.Controllers.LoginController Message=User Verified with Provided Credentials for the email address addadasurya@gmail.com
+2024-04-25 20:37:12 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1
+2024-04-25 20:37:12 Source=Backend.V1.Controllers.UserController Message=Fetching User details for the id :1
+2024-04-25 20:37:14 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 20:37:14 Source=Backend.V1.Controllers.VendorController Message=Successfully retrieved all active Vendors
+2024-04-25 20:37:19 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:37:19 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:37:19 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:37:19 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:37:25 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :5028
+2024-04-25 20:37:25 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:37:27 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:37:31 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :5028
+2024-04-25 20:37:31 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :23
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :32
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :31
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :30
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1027
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1030
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :2028
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1034
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1026
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4029
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2029
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4031
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2030
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1034
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :23
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :32
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :30
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1027
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :31
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1030
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :1026
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :2028
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4029
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2029
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Ordered count not found product with id :4031
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :2030
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :24
+2024-04-25 20:38:43 Source=Backend.V1.Controllers.OrderController Message=Get ordered count of product for id :24
+2024-04-25 20:39:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:39:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:39:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:39:26 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:39:39 Source=Backend.V1.Controllers.LoginController Message=The user could not be verified with the provided credentials for the email address raju@gmail.com.
+2024-04-25 20:39:39 Source=Backend.V1.Controllers.LoginController Message=The vendor could not be verified with the provided credentials for the email address raju@gmail.com.
+2024-04-25 20:39:49 Source=Backend.V1.Controllers.LoginController Message=The user could not be verified with the provided credentials for the email address raju@gmail.com.
+2024-04-25 20:39:49 Source=Backend.V1.Controllers.LoginController Message=Vendor Verified with Provided Credentials for the email address raju@gmail.com
+2024-04-25 20:39:49 Source=Backend.V1.Controllers.VendorController Message=Fetching Vendor details for the id :1
+2024-04-25 20:39:49 Source=Backend.V1.Controllers.VendorController Message=Fetching Vendor details for the id :1
+2024-04-25 20:39:49 Source=Backend.V1.Controllers.ProductController Message=Vendor fetches All Product details along with inventories whose id is:1
+2024-04-25 20:39:49 Source=Backend.V1.Controllers.ProductController Message=Vendor fetches All Product details along with inventories whose id is:1
+2024-04-25 20:40:00 Source=Backend.V1.Controllers.ProductController Message=Vendor fetches All Product details along with inventories whose id is:1
+2024-04-25 20:40:00 Source=Backend.V1.Controllers.ProductController Message=Vendor fetches All Product details along with inventories whose id is:1
+2024-04-25 20:40:15 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :1
+2024-04-25 20:40:15 Source=Backend.V1.Controllers.OrderController Message=Previous order details fetched successfully for the vendor with id :1
+2024-04-25 20:49:03 Source=Backend.V1.Controllers.ProductController Message=User with id 6002 failed to fetch as wishlist items  not found.
+2024-04-25 20:49:03 Source=Backend.V1.Controllers.ProductController Message=User with id 6002 failed to fetch as wishlist items  not found.
+2024-04-25 20:49:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:49:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:49:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:49:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:49:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:49:08 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:49:11 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 20:49:11 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 20:49:11 Source=Backend.V1.Controllers.ProductController Message=User with id 6002 failed to fetch wishlist items as it is not found.
+2024-04-25 20:49:11 Source=Backend.V1.Controllers.ProductController Message=User with id 6002 failed to fetch wishlist items as it is not found.
+2024-04-25 20:49:14 Source=Backend.V1.Controllers.ProductController Message=A new product whose id is 30 is added into wishlist by the user whose id is 6002.
+2024-04-25 20:49:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :6002
+2024-04-25 20:49:16 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :6002
+2024-04-25 20:49:18 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 20:49:18 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :6002
+2024-04-25 20:49:18 Source=Backend.V1.Controllers.ProductController Message=Fetching product details along with inventories for the product whose id is:30
+2024-04-25 20:49:18 Source=Backend.V1.Controllers.ProductController Message=Retrieving wishlist items of user whose id is :6002
+2024-04-25 20:49:20 Source=Backend.V1.Controllers.UserController Message=Shipping details not available for the user id :6002
+2024-04-25 20:49:26 Source=Backend.V1.Controllers.UserController Message=Shipping details not available for the user id :6002
+2024-04-25 20:49:52 Source=Backend.V1.Controllers.UserController Message=A new shipping Address is added
+2024-04-25 20:49:56 Source=Backend.V1.Controllers.UserController Message=Shipping details fetching for the user id:6002 
+2024-04-25 20:50:06 Source=Backend.V1.Controllers.OrderController Message=A new order is placed
+2024-04-25 20:50:06 Source=Backend.V1.Controllers.OrderController Message=A new ordered items are added
+2024-04-25 20:50:06 Source=Backend.V1.Controllers.ProductController Message=Product with id 30 is deleted from cart by the user whose id is 1002.
+2024-04-25 20:50:08 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:6002
+2024-04-25 20:50:08 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:6002
+2024-04-25 20:50:17 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:50:17 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:50:17 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:50:17 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:50:22 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :5029
+2024-04-25 20:50:22 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:50:24 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:50:28 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :5029
+2024-04-25 20:50:28 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:50:32 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:6002
+2024-04-25 20:50:32 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:6002
+2024-04-25 20:50:38 Source=Backend.V1.Controllers.OrderController Message=Ordered item details updated for the id :5029
+2024-04-25 20:50:38 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:6002
+2024-04-25 20:50:38 Source=Backend.V1.Controllers.OrderController Message=Fecthing all previous order details for the user id:6002
+2024-04-25 20:50:43 Source=Backend.V1.Controllers.OrderController Message=Fetching Ordered items details
+2024-04-25 20:54:17 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:54:17 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:54:17 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:54:17 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:54:17 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products
+2024-04-25 20:54:17 Source=Backend.V1.Controllers.ProductController Message=Retrieving All Active Products

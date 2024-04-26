@@ -1,0 +1,83 @@
+.invoice-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.backdrop {
+    position: fixed; 
+    padding-bottom: 50px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);  
+
+    display: flex;
+    justify-content: center; 
+    align-items: flex-end; 
+
+    z-index: 999; 
+
+}
+
+.card {
+    width: 100%; 
+    padding: 20px 20px 50px 20px; 
+   
+    position: fixed;   
+    left: 0; 
+    bottom: 0; 
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    animation: slide-up 0.5s ease;
+    display: flex;
+    flex-direction: column; 
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+} 
+
+.label-value {
+    display: flex;
+    justify-content: space-between; 
+    margin: 8px; 
+    
+}
+
+.label {
+    font-weight: bold; 
+   
+}
+
+.value {
+    text-align: right;
+}
+.label-value .refunded-section {
+    display: block;
+    margin-top: 10px;
+  }
+
+
+
+@keyframes slide-up {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

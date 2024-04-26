@@ -1,0 +1,91 @@
+/* Recommendations.css */
+.slick-slide {
+    transition: all 0.3s ease;
+    opacity: 0.5; /* Default opacity for items */
+  }
+  
+  .slick-center {
+    opacity: 1; /* Opacity for the center item */
+  }
+  
+  
+  
+  .navigation-buttons {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navigation-buttons button {
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+  }
+
+  .slider-container {
+    position: relative;
+  }
+  
+  .product-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .product-details {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  .brand-name {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .description {
+    font-size: 14px;
+  } 
+  .product-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .product-card {
+    flex-basis: calc(33.333% - 20px);
+    margin-bottom: 20px;
+  }
+  
+  .product-card .MuiCardMedia-root {
+    height: 200px; /* Adjust the height of the card image */
+    object-fit: cover;
+  }
+  
+  @media (max-width: 992px) {
+    .product-card {
+      flex-basis: calc(50% - 20px);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .product-card {
+      flex-basis: calc(50% - 20px);
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .product-card {
+      flex-basis: calc(100% - 20px);
+    }
+  }
+  

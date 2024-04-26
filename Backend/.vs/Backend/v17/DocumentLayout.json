@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\serilog\\log20240422.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:serilog\\log20240422.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\interface\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:interface\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\interface\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:interface\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|c:\\users\\2000108529\\onedrive - hexaware technologies\\e-commerce\\backend\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73100AF2-FDBF-482F-91F2-BD5FCE3C26EF}|Backend.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log20240422.txt",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Serilog\\log20240422.txt",
+              "RelativeDocumentMoniker": "Serilog\\log20240422.txt",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Serilog\\log20240422.txt",
+              "RelativeToolTip": "Serilog\\log20240422.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T10:50:01.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:11:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Interface\\IEmailService.cs",
+              "RelativeToolTip": "Interface\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:10:16.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Interface\\Authentication.cs",
+              "RelativeDocumentMoniker": "Interface\\Authentication.cs",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Interface\\Authentication.cs",
+              "RelativeToolTip": "Interface\\Authentication.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:09:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAHcAAAAA/P////8LwIEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:01:06.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACABAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:40:27.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T09:52:42.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Interface\\EmailService.cs",
+              "RelativeDocumentMoniker": "Interface\\EmailService.cs",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Interface\\EmailService.cs",
+              "RelativeToolTip": "Interface\\EmailService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:09:29.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "Models\\DBContext.cs",
+              "ToolTip": "C:\\Users\\2000108529\\OneDrive - Hexaware Technologies\\E-Commerce\\Backend\\Models\\DBContext.cs",
+              "RelativeToolTip": "Models\\DBContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:59:56.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
